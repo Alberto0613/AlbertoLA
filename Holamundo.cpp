@@ -8,6 +8,7 @@ int main()
                  for(i=50;i<=100;i+=2)
                     {
 	                   printf("\tHola Mundo\n");
+	                   printf("\tHola\n");
                     }
                     
 getch();
