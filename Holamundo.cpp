@@ -3,10 +3,15 @@
 
 int main()
         {
-                  printf("Hola Mundo");
+          int i;
                   
-                 getch();
-                 return 0;  
+                 for(i=50;i<=100;i+=2)
+                    {
+	                   printf("\tHola Mundo\n");
+                    }
+                    
+getch();
+return 0;  
                   
                   
         }
